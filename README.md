@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lini3000
 - 👀 I’m interested in people and emotions, stats and numbers, sound and language
 - 🌱 I’m currently learning python, html, a lot about computers
-- 💞️ I’m looking to collaborate on school projects cause i dont have more time lol
+
 
 <!---
 lini3000/lini3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
